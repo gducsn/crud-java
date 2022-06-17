@@ -1,4 +1,4 @@
-![output](https://user-images.githubusercontent.com/94108883/174251252-9d064770-e0f3-4f72-b0c9-c9e524f29dcd.gif)
+![crud](https://user-images.githubusercontent.com/94108883/174253066-3deda78c-bd66-4085-962c-9fd3b62d2421.gif)
 
 
 # DB + DAO + Servlet + JSP
