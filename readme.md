@@ -1,4 +1,5 @@
-![](output.gif)
+![output](https://user-images.githubusercontent.com/94108883/174251252-9d064770-e0f3-4f72-b0c9-c9e524f29dcd.gif)
+
 
 # DB + DAO + Servlet + JSP
 
