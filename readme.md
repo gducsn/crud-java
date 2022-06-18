@@ -19,12 +19,15 @@ Dalla pagina JSP parte la richiesta dell’utente che va al servlet e successiva
 
 ```java
 package model; // è nel pacchetto model
+import java.io.Serializable;
 
 public class User {
 	private int id;
 	private String name;
 	private String email;
 	private String country;
+	
+	public User(){};
 
 	public User(int id, String name, String email, String country) {
 		super();
